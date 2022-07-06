@@ -40,8 +40,14 @@ body {
     text-align: center;
 }
 
+.part {
+    width: 50%;
+    padding-left: 5%;
+}
 
-
+.ex {
+    display: flex;
+}
 
 .again {
     display: flex;
