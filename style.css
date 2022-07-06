@@ -1,0 +1,41 @@
+body {
+    font-family: 'Gentium Book Plus', serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.origin-part {
+    text-align: center;
+    background-image: url(images/donation1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    background-size: 1000px 1000px;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+#size {
+    font-size: 50px;
+
+}
+
+.start-part {
+    text-align: center;
+    height: 50%;
+    padding-top: 100px;
+}
+
+
+
+
+
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
