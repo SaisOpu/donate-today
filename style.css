@@ -10,10 +10,15 @@ body {
     background-size: cover;
     background-position: center;
     color: white;
-    background-size: 1000px 1000px;
+
     background-repeat: no-repeat;
     width: 100%;
 
+}
+
+.deep {
+    font-weight: 1000px;
+    font-size: 50px;
 }
 
 #size {
@@ -65,8 +70,26 @@ body {
 
 .ex {
     display: flex;
+}
 
+.divide {
+    margin: 80px 80px;
+}
 
+.tool {
+    display: flex;
+    margin-left: 10%;
+}
+
+.money {
+    color: orange;
+    border-color: 200px solid red;
+}
+
+#amount {
+    text-align: center;
+    font-weight: 100;
+    color: grey;
 }
 
 .again {
