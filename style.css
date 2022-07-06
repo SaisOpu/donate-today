@@ -13,6 +13,7 @@ body {
     background-size: 1000px 1000px;
     background-repeat: no-repeat;
     width: 100%;
+
 }
 
 #size {
@@ -26,11 +27,6 @@ body {
     padding-top: 100px;
 }
 
-
-
-
-
-
 .link-button {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
@@ -38,4 +34,36 @@ body {
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+
+.middle-part {
+    text-align: center;
+}
+
+
+
+
+.again {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.help {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.pic-first {
+    padding-left: 20px;
+    width: 50%;
+
+}
+
+.last {
+    background-color: bisque;
+    text-align: center;
+    border-radius: 50px 30px;
+
+
 }
